@@ -12,7 +12,7 @@
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
     "express-mung": "^0.5.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "request": "^2.88.2"
   },
   "devDependencies": {
